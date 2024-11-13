@@ -1,0 +1,5 @@
+The purpose in this study case is to train how to help at an internal audit as a junior SOC analyst.
+
+This is a fictional Cybersecurity audit avilable in the Google Cybersecurity Professional Certificate. The archives in this repository were made available by Google
+
+The "Google_Fictional_Security_Audit.txt" contains the information gathered at the audit itself and the "Google_Controls_and_Compliance_Checklist.txt" is the study made to show to the company what must change, it also contains how urgent and how easy the changes are.
