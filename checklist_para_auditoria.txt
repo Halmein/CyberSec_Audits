@@ -1,0 +1,75 @@
+Checklist para auditoria.
+
+Sistemas de controle de acesso:
+
+
+* Menor Privilégio.
+
+* Plano de recuperação de desastres.
+
+* Politica de senhas.
+
+* Separação de tarefas.
+
+* Firewall.
+
+* Sistema de detecção de invasores.
+
+* Backups.
+
+* Software de antivirus.
+
+* Monitoramento, manutenção e intervenção para sistemas legado.
+
+* Encriptação.
+
+* Sistema de gerência de senhas.
+
+* Cadeados e trancas.
+
+* Monitoramento por câmeras.
+
+* Sistema de detecção e prevenção de incêndio.
+
+
+Conformidades:
+
+
+Padrão de segurança de dados para cartões de crédito:
+
+* Apenas usuários autorizados tem acesso as informações de cartão de crédito dos clientes.
+
+* Informação de cartão de crédito é guardada, aceita, processada e transmitida em um ambiente interno seguro.
+
+* Encriptação de dados de cartão de crédito.
+
+* Politicas de gerência de senhas segura.
+
+
+Regulamentação de proteção de dados geral(GDPR):
+
+* Plano para notificar clientes da União Europeia dentro de 72 horas caso seus dados tenham sido comprometidos.
+
+* Está sendo garantido que dados estão própriamente classificados.
+
+* Politicas de privacidade, procedimentos e processos está propriamente documentado e mantido.
+
+
+Controle de systema e organizações:
+
+* Politica de acesso estabelecidas.
+
+* Informações sensitivas (PII/SPII) é confidencial e privada.
+
+* Integridade dos dados é consistente, precisa e foi validada.
+
+* Informações estão apenas disponiveis para usuários autorizados.
+
+
+Conclusões:
+
+
+Alterações necessárias:
+
+
+Opções para alterações:
